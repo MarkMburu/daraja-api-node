@@ -1,0 +1,27 @@
+{
+  "name": "daraja",
+  "version": "1.0.0",
+  "description": "A simple node project to consume daraja Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "m-pesa",
+    "safaricom",
+    "daraja",
+    "api",
+    "m-pesa",
+    "api"
+  ],
+  "author": "Mark Mburu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2"
+  }
+}
