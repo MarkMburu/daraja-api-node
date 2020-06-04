@@ -4,7 +4,7 @@
   "description": "A simple node project to consume daraja Api",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "nodemon  app.js"
   },
   "keywords": [
     "m-pesa",
@@ -23,5 +23,6 @@
     "mongoose": "^5.9.10",
     "nodemon": "^2.0.3",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {}
 }
